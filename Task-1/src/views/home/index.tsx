@@ -1,3 +1,8 @@
 import { ReactElement } from "react";
+import Task from "../../components/task";
 
-export default (): ReactElement => (<>home</>);
+export default (): ReactElement => (
+  <>
+    <Task />
+  </>
+);
