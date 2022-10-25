@@ -1,0 +1,22 @@
+:root {
+  --5: #ffffff;
+  --6: #000000;
+  --padding-inline: 5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+}
+
+:is(header, footer, section) {
+  padding-inline: var(--padding-inline);
+}
