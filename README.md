@@ -5,6 +5,8 @@ Analystt.ai task
 ## *A test assignment that was given with two main task*
 
 ```
-First task is to create a simple TODO web app with some functionalities similar to an api CRUD(create, read, update, delete) operation
+First task is to create a simple TODO web app 
+with some functionalities similar to an api 
+CRUD(create, read, update, delete) operation
 ```
 
